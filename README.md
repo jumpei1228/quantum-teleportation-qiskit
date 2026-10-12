@@ -1,5 +1,7 @@
 # 量子テレポーテーションをQiskitで実装する｜状態を"転送"するしくみ
 
+[![run](https://github.com/jumpei1228/quantum-teleportation-qiskit/actions/workflows/run.yml/badge.svg)](https://github.com/jumpei1228/quantum-teleportation-qiskit/actions/workflows/run.yml)
+
 量子情報の基本プロトコル「量子テレポーテーション」をQiskitで実装。もつれと古典通信を組み合わせて、量子ビットの状態を別の量子ビットへ移す流れを、コードと測定結果で確かめます。
 
 > 📖 このコードの詳しい解説（理論・図解つき）は元記事をどうぞ:
